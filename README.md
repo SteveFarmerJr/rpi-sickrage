@@ -2,7 +2,7 @@
 My own Docker image for Sickrage on a Raspberry Pi
 
 # Status
-[![Build status](https://travis-ci.org/napnap75/rpi-sickrage.svg?branch=master)](https://travis-ci.org/napnap75/rpi-sickrage) [![Image size](https://images.microbadger.com/badges/image/napnap75/rpi-sickrage.svg)](https://microbadger.com/images/napnap75/rpi-sickrage "Get your own image badge on microbadger.com") [![Github link](https://assets-cdn.github.com/favicon.ico)](https://github.com/napnap75/rpi-sickrage) [![Docker hub link](https://www.docker.com/favicon.ico)](https://hub.docker.com/r/napnap75/rpi-sickrage/)
+[![Image size](https://images.microbadger.com/badges/image/napnap75/rpi-sickrage.svg)](https://microbadger.com/images/napnap75/rpi-sickrage "Get your own image badge on microbadger.com") [![Github link](https://assets-cdn.github.com/favicon.ico)](https://github.com/napnap75/rpi-sickrage) [![Docker hub link](https://www.docker.com/favicon.ico)](https://hub.docker.com/r/napnap75/rpi-sickrage/)
 
 # Content
 This image is based [my own Alpine Linux base image](https://hub.docker.com/r/napnap75/rpi-alpine-base/).
