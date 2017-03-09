@@ -7,10 +7,9 @@ RUN apk update \
 	&& apk del git \
 	&& rm -rf /var/cache/apk/*
 	
-# Required volumes
+# Define config directory
+ENV HOME=/home
 VOLUME /home
-
-# Define working directory
 WORKDIR /home
 
 # Expose HTTP port
